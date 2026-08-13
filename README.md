@@ -120,7 +120,7 @@ The Kali Linux virtual machine's network adapter was configured to utilize the d
 5. Select `CyberLab-NAT` from the dropdown
 6. Confirm configuration
 
-**Screenshot Reference:**
+**Screenshot:**
 <img width="1919" height="1131" alt="01_VirtualBox_Network_Adapter" src="https://github.com/user-attachments/assets/37e17b97-c822-43b2-a2f3-0c14dc36470c" />
 
 ---
@@ -145,7 +145,7 @@ ip addr show eth0
 
 **Result:** IP address `10.0.0.2/24` confirmed on interface `eth0`
 
-**Screenshot Reference:** 
+**Screenshot:** 
 <img width="1920" height="1040" alt="02_Kali_IP_Address" src="https://github.com/user-attachments/assets/c74faa5e-4b41-481a-875a-a1732621b413" />
 
 ---
@@ -167,7 +167,7 @@ ip route show
 
 **Result:** Default route via `10.0.0.1` confirmed
 
-**Screenshot Reference:** 
+**Screenshot:** 
 <img width="1920" height="1040" alt="03_Default_Gateway" src="https://github.com/user-attachments/assets/0455f27c-0342-472c-8811-05aaf38db9a4" />
 
 
@@ -184,7 +184,7 @@ ping -c 4 10.0.0.1
 
 **Result:** Gateway responded successfully
 
-**Screenshot Reference:** 
+**Screenshot:** 
 <img width="1920" height="1040" alt="04_Ping_Gateway" src="https://github.com/user-attachments/assets/b0b45433-495a-47d3-af9d-59396243e10e" />
 
 
@@ -201,7 +201,7 @@ ping -c 4 8.8.8.8
 
 **Result:** Internet connectivity confirmed
 
-**Screenshot Reference:** 
+**Screenshot:** 
 <img width="1920" height="1040" alt="05_Ping_Internet" src="https://github.com/user-attachments/assets/7fbea553-477e-40a8-9b6c-ded3510897a4" />
 
 
@@ -218,7 +218,7 @@ A dedicated VirtualBox NAT Network named `CyberLab-NAT` was created with the fol
 - **Network CIDR:** 10.0.0.0/24
 - **DHCP Server:** Disabled
 
-**Screenshot Reference:** 
+**Screenshot:** 
 <img width="1913" height="1128" alt="06_NAT_Network" src="https://github.com/user-attachments/assets/060baf92-aea6-4ec6-832a-d1b8ecb64a98" />
 
 
