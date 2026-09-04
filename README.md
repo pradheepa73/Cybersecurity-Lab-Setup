@@ -1,5 +1,14 @@
 # Cybersecurity Laboratory Environment Setup
 
+### *Oracle VirtualBox & Kali Linux Security Lab*
+
+[![VirtualBox](https://img.shields.io/badge/VirtualBox-7.0+-183A61?logo=virtualbox&logoColor=white)](https://www.virtualbox.org/)
+[![Kali Linux](https://img.shields.io/badge/Kali-Linux-557C94?logo=kalilinux&logoColor=white)](https://www.kali.org/)
+[![Networking](https://img.shields.io/badge/Networking-NAT_Network-0073e6?logo=cisco&logoColor=white)](https://www.virtualbox.org/manual/ch06.html)
+[![License](https://img.shields.io/badge/License-Educational-brightgreen)](LICENSE)
+[![Status](https://img.shields.io/badge/Status-Completed-success)](https://github.com/pradheepa73/Cybersecurity-Lab-Setup)
+
+### 📂 [GitHub Repository](https://github.com/pradheepa73/Cybersecurity-Lab-Setup)
 ## Executive Summary
 
 This document outlines the setup and configuration of an isolated cybersecurity laboratory environment utilizing **Oracle VirtualBox** as the virtualization platform and **Kali Linux** as the security workstation. The laboratory provides a controlled, isolated network environment designed for security training and penetration testing exercises.
@@ -334,12 +343,17 @@ This laboratory environment provides a secure, isolated, and controlled platform
 
 ---
 
-## Author Information
+## 👤 Author
 
-**Pradheepa.M**
-*B.Sc. Computer Science with Cybersecurity*
+<div align="center">
 
----
+**Pradheepa M**  
+*Cybersecurity Enthusiast*
+
+[![GitHub](https://img.shields.io/badge/GitHub-pradheepa73-181717?logo=github&logoColor=white)](https://github.com/pradheepa73)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pradheepa-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pradheepa-m-051728372)
+
+</div>
 
 ## License
 
@@ -348,4 +362,14 @@ This laboratory environment provides a secure, isolated, and controlled platform
 This project and its documentation are intended solely for educational and training purposes. All security testing and penetration testing activities must be performed exclusively in authorized environments with explicit permission from system owners.
 
 Unauthorized access to computer systems, networks, or data is prohibited and may violate applicable laws and regulations. Users are responsible for ensuring their activities comply with all relevant laws, regulations, and organizational policies.
+
+---
+
+<div align="center">
+
+### 🛡️ *Stay Secure. Stay Aware.*
+
+### Made with ❤️ by Pradheepa M
+
+</div>
 
